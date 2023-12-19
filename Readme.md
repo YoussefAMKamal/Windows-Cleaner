@@ -16,4 +16,4 @@ The file consistes of many parts, which are:
 3- Wait tell it finishes.
 
 ## Note:
-For fast clean use Fast Cleaner.bat which includes the cleaning parts only.
+For fast clean, use Fast Cleaner.bat which includes the cleaning parts only.
