@@ -1,5 +1,5 @@
 ## About:
-This program was written as a batch file, it would help cleaning the C drive from not needed files.
+This program was written as a batch file, it would help cleaning the C drive from temporary files.
 
 The file consists of many parts, which are:
 - Clean junk files (Ex: files end with .tmp).
