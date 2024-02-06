@@ -1,5 +1,5 @@
 ## About:
-This file will help cleaning the C drive.
+This program was written as a batch file, it would help cleaning the C drive from not needed files.
 
 The file consists of many parts, which are:
 - Clean junk files.
