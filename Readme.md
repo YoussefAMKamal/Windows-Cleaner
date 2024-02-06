@@ -9,7 +9,7 @@ The file consists of many parts, which are:
 - Repair system files (as a bonus).
 
 ## How to Use:
-1- Download the Windows Cleaner.bat file.
+1- Download the Windows Cleaner.exe file.
 
 2- Run it in administrator mode.
 
