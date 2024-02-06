@@ -2,8 +2,8 @@
 This program was written as a batch file, it would help cleaning the C drive from not needed files.
 
 The file consists of many parts, which are:
-- Clean junk files.
-- Clean temporary files.
+- Clean junk files (Ex: files end with .tmp).
+- Clean temporary files (Ex: file exist in temp and prefetch).
 - Flush DNS cache.
 - Use windows cleaner tool (for extra clean).
 - Repair system files (as a bonus).
