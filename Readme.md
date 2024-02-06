@@ -13,7 +13,7 @@ The file consists of many parts, which are:
 
 2- Run it in administrator mode.
 
-3- Wait tell it finish.
+3- Wait till it finish.
 
 ## Note:
 For fast cleaning, use "Fast Cleaner.exe" which includes the important cleaning parts only and without the repairing.
