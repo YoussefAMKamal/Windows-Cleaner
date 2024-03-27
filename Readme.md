@@ -15,7 +15,7 @@ The file consists of many parts, which are:
 
 3- Wait till it finish.
 
-## [!Note:]
+> [ !Note ]
 > For fast cleaning, use "Fast Cleaner.exe" which includes the important cleaning parts only and without the repairing.
 
 > Do not worry its safe to use those files. They only make it easier to remove temporary files and repair the system files to make sure everything is working just fine.
